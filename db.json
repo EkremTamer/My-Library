@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Yaban",
+      "author": "Yakup Kadri Karaosmanoğlu",
+      "isbn": "1111111",
+      "categoryId": "1"
+    },
+    {
+      "id": 2,
+      "name": "Yeraltından Notlar",
+      "author": "Dostayevski",
+      "isbn": "1111112",
+      "categoryId": "2"
+    },
+    {
+      "id": 3,
+      "name": "Denemeler",
+      "author": "Montaigne",
+      "isbn": "1111113",
+      "categoryId": "3"
+    },
+    {
+      "id": 1662562569481,
+      "name": "Ateşten Gömlek",
+      "author": "Halide Edip Adıvar",
+      "isbn": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 1664113619511,
+      "name": "AliBaba'nın Çiftliği vol1",
+      "author": "AliBaba",
+      "isbn": "01020304",
+      "categoryId": "2"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Roman"
+    },
+    {
+      "id": "2",
+      "name": "Hikaye"
+    },
+    {
+      "id": "3",
+      "name": "Deneme"
+    }
+  ]
+}
